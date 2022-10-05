@@ -1,5 +1,7 @@
 # Atlas
 
+[![Download from GitHub](https://img.shields.io/github/repo-size/MedPocket/Atlas?logo=github&label=Download)](https://github.com/MedPocket/Atlas/archive/refs/heads/main.zip)
+
 Atlas offers unsurpassed depictions of the human body in clear, brilliant detail - all
 from a clinician's perspective. With its emphasis on anatomic relationships and clinically
 relevant views, it provides a coherent, lasting visual vocabulary for understanding anatomy
